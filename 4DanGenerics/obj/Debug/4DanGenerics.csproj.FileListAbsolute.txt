@@ -1,0 +1,7 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\bin\Debug\4DanGenerics.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\bin\Debug\4DanGenerics.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\bin\Debug\4DanGenerics.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\obj\Debug\4DanGenerics.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\obj\Debug\4DanGenerics.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\obj\Debug\4DanGenerics.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\4DanGenerics1\4DanGenerics\obj\Debug\4DanGenerics.pdb
